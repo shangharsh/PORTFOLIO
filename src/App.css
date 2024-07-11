@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    box-sizing: border-box;
+    font-family: 'Poppins',san-serif;
+    font-size: 1.2rem;
+    background-color:#FEFBE8;
+}
